@@ -2,18 +2,6 @@
 
 ### Setup .env file
 
-```js
-MONGODB_URI=...
-PORT=5001
-JWT_SECRET=...
-
-CLOUDINARY_CLOUD_NAME=...
-CLOUDINARY_API_KEY=...
-CLOUDINARY_API_SECRET=...
-
-NODE_ENV=development
-```
-
 ### Build the app
 
 ```shell
@@ -25,5 +13,6 @@ npm run build
 ```shell
 npm start
 ```
-###![LOGIN](image.png)
-###![Chatting](image-1.png)
+![Login](image-3.png)
+![Chatting](image-1.png)
+![Profile](image-2.png)
